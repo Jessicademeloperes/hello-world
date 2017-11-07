@@ -1,2 +1,3 @@
 # hello-world
-Learning
+Learning!
+Electrical engineer, learning how to code in python.
